@@ -1,2 +1,2 @@
 # PlasticMasons
-## Teaching 3D modeling via an engaging TinkerCAD Project
+## Teaching 3D Modeling via an Engaging TinkerCAD Project
