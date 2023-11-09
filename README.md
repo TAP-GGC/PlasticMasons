@@ -47,7 +47,8 @@ Georgia Gwinnett College - Technology Ambassadors Program
 Georgia Gwinnett College - School of Science and Technology
 Georgia Gwinnett College – Digital Media Lab
 
-Our Poster
+Our Poster:
+
 [[/media/TAPPlasticMasonsPoster.pdf]]
 
 
