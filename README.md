@@ -30,7 +30,7 @@ In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modelin
 
 Figure 1. Example of a keychain featuring the GGC logo designed with TinkerCAD.
 
-
+[Keychain](./media/TAPKeychain.jpg)
 
 Through TinkerCAD,  we empower participants to design personalized keychains featuring the GGC logo (Figure 1), making the 3D modeling and printing process accessible and engaging, even to those without advanced technical knowledge. Our project is a work in progress at the time of this submission.
 Results
