@@ -49,7 +49,7 @@ Georgia Gwinnett College – Digital Media Lab
 
 Our Poster:
 
-[[/media/TAPPlasticMasonsPoster.pdf]]
+[/media/TAPPlasticMasonsPoster.pdf]
 
 
 
