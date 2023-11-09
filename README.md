@@ -48,7 +48,7 @@ Georgia Gwinnett College - School of Science and Technology
 Georgia Gwinnett College – Digital Media Lab
 
 Our Poster
-
+[[/media/TAPPlasticMasonsPoster.pdf]]
 
 
 
