@@ -1,0 +1,3 @@
+We used a browser based 3D modeling software called TinkerCAD. It was chosen for its simplicity and a learning curve that is shallow relative to other alternatives that we had access too like Blender, AutoCAD, and Inventor.
+
+https://www.tinkercad.com
