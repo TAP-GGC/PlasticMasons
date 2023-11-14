@@ -8,8 +8,8 @@ In our workshop, we walked our audience through the recreation of the Death Star
 # Team 
 
 Peter Davis  
-Ato Koomson 
-Huyen Pham 
+Ato Koomson      
+Huyen Pham         
 [Team](./media/s3.jpg)
 
 #Advisors 
