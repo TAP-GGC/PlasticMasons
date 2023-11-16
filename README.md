@@ -71,6 +71,20 @@ Step 3: Start
 
 # Usage
 
+To Build The Death Star:    
+Step 1: Drag and drop a sphere into the workplane    
+Step 2: Drag and drop a tube into the workplane next to the sphere    
+Step 3: Use the handle at the top of the tube to open a dialogue box and enter "0.5" to specify a height of half a millimeter    
+Step 4: Drag the tube so that it's directly under the sphere    
+Step 5: Use the cone floating above the tube to elevate it to the middle of the sphere    
+Step 6: Check alignment and adjust as necessary    
+Step 7: Select "Hole" in the dialogue box near the top right corner of the workspace    
+Step 8: Shift + Click to select both shapes then Ctrl + G to group them    
+Step 9: Drag a second sphere into the workplane and make it a hole    
+Step 10: Align the spheres in a way that the intersection of the shapes forms the laser array on the Death Star    
+Step 11: Group the shapes    
+Step 12 (Optional): Select a color by clicking the circle above "Solid" and choosing whatever color you want.   
+
 
 
 
