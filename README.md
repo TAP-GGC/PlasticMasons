@@ -57,7 +57,7 @@ Our Poster:
 1. Super Saturday Series (S3), Oct 28th, GGC – middle and high school girls to promote IT and
 STEM career
 2. Tap Expo, Oct 10, GGC – To promote IT field and the TAP program to college students.
-3. CCSC: SE conference - on Nov 3rd and 4th, to participants in the programming contest.
+3. CCSC: SE conference - on Nov 3rd and 4th, to attend the CCSC student research content.
 4. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote IT field to non-IT college students.
    
 # Technology
