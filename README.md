@@ -71,12 +71,12 @@ In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modelin
 
 # Project setup// Installation
 
--Step 1:  Creating Your Tinkercad Account
--Step 2:  Press the Create button to start creating a new 3D design
--Step 3: Start exploring the TinkerCAD interface
--Step 4: Begin your design
--Step 5: Customize and edit
--Step 6: TinkerCAD will automatically save your work, you can export it to the file that you want (.STL is recommended)
+- Step 1:  Creating Your Tinkercad Account
+- Step 2:  Press the Create button to start creating a new 3D design
+- Step 3: Start exploring the TinkerCAD interface
+- Step 4: Begin your design
+- Step 5: Customize and edit
+- Step 6: TinkerCAD will automatically save your work, you can export it to the file that you want (.STL is recommended)
 
 # Usage
 
