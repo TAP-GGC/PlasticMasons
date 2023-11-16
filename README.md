@@ -48,10 +48,9 @@ Georgia Gwinnett College - Technology Ambassadors Program
 Georgia Gwinnett College - School of Science and Technology
 Georgia Gwinnett College – Digital Media Lab
 
-Our Poster:
 
 
-[Poster](./media/TAPPlasticMasonsPoster.pdf)
+[Our Poster](./media/TAPPlasticMasonsPoster.pdf)
 
 # Outreach Activities
 1. Super Saturday Series (S3), Oct 28th, GGC – middle and high school girls to promote IT and
