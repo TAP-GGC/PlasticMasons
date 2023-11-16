@@ -10,7 +10,7 @@ In our workshop, we walked our audience through the recreation of the Death Star
 Peter Davis  
 Ato Koomson      
 Huyen Pham         
-[Team](./media/s3.jpg)
+[Team Picture](./media/s3.jpg)
 
 #Advisors 
 
