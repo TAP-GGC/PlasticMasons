@@ -65,17 +65,18 @@ Georgia Gwinnett College – Digital Media Lab
     
 # Outreach Activities    
 1. Super Saturday Series (S3), Oct 28th, 2023, GGC – middle school girls to promote IT and STEM    
-2. Tap Expo, Oct 10, 2023 – The TAP expo is an opportunity to present IT to students at Georgia Gwinnett College that may not hace been exposed to tech.      
-3. CCSC: SE conference - on Nov 3rd and 4th, 2023, to attend the CCSC student research contest at Coastal Carolina University.    
-4. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote IT field to non-IT college students.
-   
-# Technology
-In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life. TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software.     
-[TinkerCAD](https://www.tinkercad.com)    
+2. Tap Expo, Oct 10, 2023 – The TAP expo is an opportunity to present IT to students at Georgia Gwinnett College that may not have been exposed to tech.      
+3. CCSC: SE conference - on Nov 3rd and 4th, 2023, we presented at the CCSC:SE student research contest at Coastal Carolina University.    
+4. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.  
+     
+# Technology  
+In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life.  
+TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software.       
+[TinkerCAD](https://www.tinkercad.com)      
 
 # Project setup// Installation
-
-- Step 1:  Create a personal account on Tinkercad    
+  
+- Step 1:  Create a free personal account on Tinkercad    
 - Step 2:  Press the Create button to start creating a new 3D design    
 - Step 3: Start exploring the TinkerCAD interface    
 
