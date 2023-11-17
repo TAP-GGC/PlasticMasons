@@ -20,10 +20,15 @@ Dr. Cindy Robertson
 #Publications 
 
 Our Abstract:       
+  
 Teaching 3D Modeling via an Engaging TinkerCAD Project     
+  
 Peter Davis, Ato Koomson, Huyen Pham    
+  
 Instructors: Dr. Cindy Robertson, Dr. Anca Doloc Mihu    
-Introduction    
+  
+Introduction:  
+  
 Our project aims to engage all ages to learn more about 3D modeling and 3D printing. Researchers found a positive relationship between frequent exposure to TinkerCAD [1] and computational thinking. For example, Eryilmaz and Deniz [2] published a study that explored the effects of TinkerCAD education on 583 students in Ankara Province. Another study on TinkerCAD [3] used TinkerCAD with middle school students to work on their spatial reasoning skills. This study found a correlation between students that had been exposed to TinkerCAD and improved spatial reasoning ability.
     
 We are developing our project during our Technology Ambassador Program (TAP) course during Fall 2023. The TAP program at Georgia Gwinnett College (GGC) aims to get all ages interested in technology via student projects and outreach. TAP's main goal is to inspire students to explore and be creative with technology. When students join TAP, they not only learn how to use technology but also use what they learn to make interesting projects. These projects are meant to be enjoyed by people of all ages in our community. By showing how useful and fun technology can be, TAP hopes to get everyone excited about the digital world, no matter how old they are.
