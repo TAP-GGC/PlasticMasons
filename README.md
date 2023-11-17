@@ -19,7 +19,7 @@ Dr. Cindy Robertson
 
 #Publications 
 
-Our Abstract:     
+Our Abstract:       
 Teaching 3D Modeling via an Engaging TinkerCAD Project     
 Peter Davis, Ato Koomson, Huyen Pham    
 Instructors: Dr. Cindy Robertson, Dr. Anca Doloc Mihu    
