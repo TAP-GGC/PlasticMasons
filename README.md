@@ -42,7 +42,7 @@ TinkerCAD provides an excellent platform for beginners to grasp the fundamentals
 
 # Usage
 
-To Build The Death Star:    
+[To Build The Death Star:](./documents/TinkerCADDeathStarTutorial)      
 - Step 1: Drag and drop a sphere into the workplane    
 - Step 2: Drag and drop a tube into the workplane next to the sphere    
 - Step 3: Use the handle at the top of the tube to open a dialogue box and enter "0.5" to specify a height of half a millimeter    
