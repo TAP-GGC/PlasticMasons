@@ -8,14 +8,14 @@ In our workshop, we walked our audience through the recreation of the Death Star
 *Peter Davis      
 *Ato Koomson          
 *Huyen Pham 
-
-# Team Photo
-![Team Picture](./media/s3.jpg)    
     
 # Advisors     
     
 *Dr. Anca Doloc Mihu     
-*Dr. Cindy Robertson     
+*Dr. Cindy Robertson
+
+# Team Photo
+![Team Picture](./media/s3.jpg)    
     
 # Publications     
     
