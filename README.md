@@ -34,8 +34,8 @@ In our workshop, we walked our audience through the recreation of the Death Star
 In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life.  
 TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software. 
 
-|<img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br>| 
-                                                            [TinkerCAD]      (https://www.tinkercad.com)      
+|<img = "center" src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br>| 
+                                                            [TinkerCAD](https://www.tinkercad.com)      
 
 # Project setup / Installation
   
