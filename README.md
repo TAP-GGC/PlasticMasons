@@ -5,14 +5,14 @@ As a group, we created a workshop to teach audiences of various ages how to use 
 In our workshop, we walked our audience through the recreation of the Death Star from Star Wars, choosing it for its combination of simplicity to make and its cultural impact and recognizability. 
     
 # Team    
-*Peter Davis      
-*Ato Koomson          
-*Huyen Pham 
++Peter Davis      
++Ato Koomson          
++Huyen Pham 
     
 # Advisors     
     
-*Dr. Anca Doloc Mihu     
-*Dr. Cindy Robertson
++Dr. Anca Doloc Mihu     
++Dr. Cindy Robertson
 
 # Team Photo
 ![Team Picture](./media/s3.jpg)  
