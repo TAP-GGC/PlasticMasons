@@ -15,7 +15,8 @@ In our workshop, we walked our audience through the recreation of the Death Star
 *Dr. Cindy Robertson
 
 # Team Photo
-![Team Picture](./media/s3.jpg)    
+![Team Picture](./media/s3.jpg)  
+(Left to Right: Peter Davis, Ato Koomson, Huyen Pham)<br>
     
 # Publications     
     
