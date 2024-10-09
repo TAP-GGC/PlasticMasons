@@ -35,7 +35,7 @@ In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modelin
 TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software. 
 
 |<img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br>| 
-                                                            [TinkerCAD](https://www.tinkercad.com)      
+                                                            [TinkerCAD]      (https://www.tinkercad.com)      
 
 # Project setup / Installation
   
