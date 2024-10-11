@@ -2,7 +2,13 @@
 
 # Description:    
 As a group, we created a workshop to teach audiences of various ages how to use 3D modeling technology on behalf of the Tech Ambassador Program at Georgia Gwinnett College. The Tech Ambassador Program (TAP) is a successful outreach program started over 10 years ago at Georgia Gwinnett College (GGC) aiming to to attract students to Information Technology and STEM. [TAP Website](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)     
-In our workshop, we walked our audience through the recreation of the Death Star from Star Wars, choosing it for its combination of simplicity to make and its cultural impact and recognizability. 
+In our workshop, we walked our audience through the recreation of the Death Star from Star Wars, choosing it for its combination of simplicity to make and its cultural impact and recognizability.
+* Difficulty Level: Easy
+* Target Audience: 6th grade - College
+* Needed Material: Computer with adequate specifications, TinkerCad installed
+* The primary goal of this project is to introduce 3d design through 3d printing.
+* TinkerCad is a free online modeling program that allows people to create designs that can later be printed.
+* The Technology Ambassador Program (TAP)(https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
     
 # Team    
 * Peter Davis      
