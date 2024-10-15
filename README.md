@@ -25,10 +25,6 @@ In our workshop, we walked our audience through the recreation of the Death Star
 (Left to Right: Peter Davis, Ato Koomson, Huyen Pham)<br>
     
 # Publications     
-    
-[Our Abstract](./documents/TAPAbstract-3Dfinal.docx)        
-      
-[Our Poster](./media/TAPPlasticMasonsPoster.pdf) 
 
 1. Teaching 3D Modeling via an Engaging TinkerCAD Project, Peter Davis, Ato Koomson, Huyen Pham, CCSC: SE conference - on Nov 3rd and 4th, 2023, we presented at the CCSC:SE student research contest at Coastal Carolina University.    
     
