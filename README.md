@@ -35,7 +35,13 @@ In our workshop, we walked our audience through the recreation of the Death Star
 # Outreach Activities    
 1. Super Saturday Series (S3), Oct 28th, 2023, GGC – middle school girls to promote IT and STEM    
 2. Tap Expo, Oct 10, 2023 – The TAP expo is an opportunity to present IT to students at Georgia Gwinnett College that may not have been exposed to tech.      
-3. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.  
+3. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.
+
+# Similar Projects
+
+* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks)
+
+
      
 # Technology  
 In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life.  
