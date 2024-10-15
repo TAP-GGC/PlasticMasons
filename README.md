@@ -49,8 +49,6 @@ TinkerCAD provides an excellent platform for beginners to grasp the fundamentals
 
 
 
-|[TinkerCAD](https://www.tinkercad.com)|  
-
 
 # Project setup / Installation
   
