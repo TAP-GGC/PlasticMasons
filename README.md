@@ -47,8 +47,6 @@ TinkerCAD provides an excellent platform for beginners to grasp the fundamentals
 |               | [TinkerCAD](https://www.tinkercad.com)  |              |
 
 
-<p align = "center">
-<img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br> 
 
 
 |[TinkerCAD](https://www.tinkercad.com)|  
