@@ -28,17 +28,24 @@ In our workshop, we walked our audience through the recreation of the Death Star
     
 [Our Abstract](./documents/TAPAbstract-3Dfinal.docx)        
       
-[Our Poster](./media/TAPPlasticMasonsPoster.pdf)          
+[Our Poster](./media/TAPPlasticMasonsPoster.pdf) 
+
+1. Teaching 3D Modeling via an Engaging TinkerCAD Project, Peter Davis, Ato Koomson, Huyen Pham, CCSC: SE conference - on Nov 3rd and 4th, 2023, we presented at the CCSC:SE student research contest at Coastal Carolina University.    
     
 # Outreach Activities    
 1. Super Saturday Series (S3), Oct 28th, 2023, GGC – middle school girls to promote IT and STEM    
 2. Tap Expo, Oct 10, 2023 – The TAP expo is an opportunity to present IT to students at Georgia Gwinnett College that may not have been exposed to tech.      
-3. Teaching 3D Modeling via an Engaging TinkerCAD Project, Peter Davis, Ato Koomson, Huyen Pham, CCSC: SE conference - on Nov 3rd and 4th, 2023, we presented at the CCSC:SE student research contest at Coastal Carolina University.    
-4. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.  
+3. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.  
      
 # Technology  
 In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life.  
 TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software. 
+
+|               | Tinker Cad    |              |
+| ------------- | :-------------: | ------------ |
+|               | <img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br>    |              |
+|               | [TinkerCAD](https://www.tinkercad.com)  |              |
+
 
 <p align = "center">
 <img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br> 
