@@ -21,7 +21,7 @@ In our workshop, we walked our audience through the recreation of the Death Star
 * Dr. Cindy Robertson
 
 # Team Photo
-<img src= "./media/s3.jpg"  width="500" height="300"> <br> 
+<img src= "./media/s3.jpg"  width="550" height="300"> <br> 
 (Left to Right: Peter Davis, Ato Koomson, Huyen Pham)<br>
     
 # Publications     
@@ -35,7 +35,7 @@ In our workshop, we walked our audience through the recreation of the Death Star
 
 # Similar Projects
 
-* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks)
+* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks) "Uses Blender."
 
 
      
