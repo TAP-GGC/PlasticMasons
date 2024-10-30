@@ -35,7 +35,7 @@ In our workshop, we walked our audience through the recreation of the Death Star
 
 # Similar Projects
 
-* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks) "Uses Blender."
+* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks) "Blender."
 
 
      
