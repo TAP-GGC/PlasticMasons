@@ -74,6 +74,9 @@ TinkerCAD provides an excellent platform for beginners to grasp the fundamentals
 - Step 11: Group the shapes    
 - Step 12 (Optional): Select a color by clicking the circle above "Solid" and choosing whatever color you want.   
 
+# Workshop Instructions 
+Workshop Slides: [PPTX](documents/TAPPresentation2.pptx)
+
 
 
 
