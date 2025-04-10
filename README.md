@@ -1,81 +1,80 @@
 # Teaching 3D Modeling via an Engaging TinkerCAD Project
 
-# Description:    
-As a group, we created a workshop to teach audiences of various ages how to use 3D modeling technology on behalf of the Tech Ambassador Program at Georgia Gwinnett College. The Tech Ambassador Program (TAP) is a successful outreach program started over 10 years ago at Georgia Gwinnett College (GGC) aiming to to attract students to Information Technology and STEM. [TAP Website](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)     
-In our workshop, we walked our audience through the recreation of the Death Star from Star Wars, choosing it for its combination of simplicity to make and its cultural impact and recognizability.
-* Difficulty Level: Easy
-* Target Audience: 6th grade - College
-* Needed Material: Computer with adequate specifications, TinkerCad installed
-* The primary goal of this project is to introduce 3d design through 3d printing.
-* TinkerCad is a free online modeling program that allows people to create designs that can later be printed.
-* The Technology Ambassador Program [TAP](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program) at GGC strives to break the misconceptions of the IT field by providing fun workshops for students of all backgrounds. TAP students design engaging and fun outreach workshops to encourage interest in IT and STEM.
+## :loudspeaker: About
+
+This workshop is designed to teach the fundamentals of 3D modeling by guiding participants through the recreation of the Death Star from Star Wars using Tinkercad. The Death Star was chosen for its balance of visual simplicty and cultural impact, making it accessible to beginniners and instantly recgonizable for many.
+
+## :bulb: Project Information
+* <b>Difficulty Level:</b> Beginner
+* <b>Target Audience:</b> Middle School - College
+* <b>Needed Materials:</b> Computer or laptop with Tinkercad
+* <b>Learning Outcomes:</b> To introduce participants to 3D design and 3D printing
+* <b>Main Technology</b> Tinkercad, a free web-based, and easy-to-use tool for 3D design
+* [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
     
-# Team    
+## :pencil2: Team: Plastic Masons
+<img src= "./media/s3.jpg"  width="550" height="300"> <br> 
+> (Left to Right: Peter Davis, Ato Koomson, Huyen Pham)<br>
 * Peter Davis      
 * Ato Koomson          
 * Huyen Pham 
     
-# Advisors     
+## :mortar_board: Advisors     
     
 * Dr. Anca Doloc Mihu     
 * Dr. Cindy Robertson
-
-# Team Photo
-<img src= "./media/s3.jpg"  width="550" height="300"> <br> 
-(Left to Right: Peter Davis, Ato Koomson, Huyen Pham)<br>
     
-# Publications     
+## :memo: Publications 
 
-1. Teaching 3D Modeling via an Engaging TinkerCAD Project, Peter Davis, Ato Koomson, Huyen Pham, CCSC: SE conference - on Nov 3rd and 4th, 2023, we presented at the CCSC:SE student research contest at Coastal Carolina University.    
-    
-# Outreach Activities    
-1. Super Saturday Series (S3), Oct 28th, 2023, GGC – middle school girls to promote IT and STEM    
-2. Tap Expo, Oct 10, 2023 – The TAP expo is an opportunity to present IT to students at Georgia Gwinnett College that may not have been exposed to tech.      
-3. Class Workshops – on [Oct 25th, Nov 13th, and Nov 17th] 3 occasions, to promote the IT field to a mix of IT and non-IT college students.
+1. <b>CCSC:SE Abstract</b> - Peter Davis, Ato Koomson, Huyen Pham. Teaching 3D Modeling via an Engaging TinkerCAD Project, Consortium for Computing Sciences in
+Colleges: Southeastern Region (CCSC:SE), November 3-4, 2023, Conway, SC.
 
-# Similar Projects
-
-* [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks) (Blender)
-
-
+## :open_hands: Outreach
+1. <b>TAP Expo</b>, October 10, 2023, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, Oct 25, Nov 13, and Nov 17, 2023, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>Super Saturday Series</b>, October 28, 2023, Georgia Gwinnett College: to promote the IT field to non-IT students.
+4. <b>CCSC Conference</b>, November 3-4, 2023, Coastal Carolina University: to present at the student research contest.
      
-# Technology  
-In our project, we use TinkerCAD, which is a user-friendly, web-based 3D modeling software accessible through a standard web browser. Additionally, we employ 3D printers to bring digital designs to life.  
-TinkerCAD provides an excellent platform for beginners to grasp the fundamentals of 3D modeling because it eliminates some of the common pain points associated with 3D modeling software. 
 
-|               | Tinker Cad    |              |
-| ------------- | :-------------: | ------------ |
-|               | <img src="https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg" width="300" height="200"> <br>    |              |
-|               | [TinkerCAD](https://www.tinkercad.com)  |              |
+## :mag_right: Similar Projects
 
+If you're interested in more workshops that utilize 3D modeling, check out [Blending Reality](https://github.com/TAP-GGC/QuantumQuirks)!
+     
+## :computer: Technology
 
+<p align="center">
+  <img alt="tinkercad logo" src = "media/TinkercadLogo.png" width="200" height=""/>
+</p>
 
+<p align="center">
+    <a href="https://www.tinkercad.com" target="_blank">TinkerCAD</a> is a free, web-based, and easy-to-use tool for 3D design, electronics, and coding.
+</p>
 
+## :robot: Project Setup and Installation
+1. Create a free personal account on [Tinkercad](https://www.tinkercad.com/join)
+2. Press the **Create** button to start creating a new 3D project
+3. Start exploring the Tinkercad interface! 
 
-# Project setup / Installation
-  
-- Step 1:  Create a free personal account on Tinkercad    
-- Step 2:  Press the Create button to start creating a new 3D design    
-- Step 3: Start exploring the TinkerCAD interface    
+## :computer: Usage
 
-# Usage
+### Building The Death Star
+Access the Death Star tutorial [here](./documents/TinkerCADDeathStarTutorial.pptx).  
+1. Drag and drop a sphere onto the workspace
+2. Drag and drop a tube onto the workplane next to the sphere
+3. Use the handle at the top of the tube to open a dialogue box and enter "0.5" to change the height to half a milimeter
+4.  Drag the tube so that is is directly under the shere
+5.   Use the cone floating above the tube to elevate it to the middle of the sphere
+6.   Check the alignment and adjust as necessary
+7.   Select "Hole" in the dialogue box near the top right corner of the workspace
+8.   Press Shift + Click to select both shapes, then press Ctrl + G to group them
+9.   Drag a second sphere onto the workplane and make it a hole
+10.   Align the spheres in a way that the intersection of the shapes form the laser array on the Death Star
+11.   Group the shapes
+12.   (Optional): Select a color by clicking the circle above "Solid" and choose whatever color you like 
 
-[To Build The Death Star:](./documents/TinkerCADDeathStarTutorial.pptx)      
-- Step 1: Drag and drop a sphere into the workplane    
-- Step 2: Drag and drop a tube into the workplane next to the sphere    
-- Step 3: Use the handle at the top of the tube to open a dialogue box and enter "0.5" to specify a height of half a millimeter    
-- Step 4: Drag the tube so that it's directly under the sphere    
-- Step 5: Use the cone floating above the tube to elevate it to the middle of the sphere    
-- Step 6: Check alignment and adjust as necessary    
-- Step 7: Select "Hole" in the dialogue box near the top right corner of the workspace    
-- Step 8: Shift + Click to select both shapes then Ctrl + G to group them    
-- Step 9: Drag a second sphere into the workplane and make it a hole    
-- Step 10: Align the spheres in a way that the intersection of the shapes forms the laser array on the Death Star    
-- Step 11: Group the shapes    
-- Step 12 (Optional): Select a color by clicking the circle above "Solid" and choosing whatever color you want.   
+## :briefcase: Workshop Instructions 
+Workshop Slides: [PDF](documents/PlasticMasonsWorkshopSlides.pdf), [PPTX](documents/PlasticMasonsWorkshopSlides.pptx)
 
-# Workshop Instructions 
-Workshop Slides: [PPTX](documents/TAPPresentation2.pptx)
 
 
 
